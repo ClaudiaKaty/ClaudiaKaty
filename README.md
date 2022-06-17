@@ -2,8 +2,7 @@
 
 - 🎓 Graduanda em ADS na UniFbv Wyden-PE.
 
-[estatísticas do GitHub de sousacl] (https://github-readme-stats.vercel.app/api?username=sousacl&theme=default&show_icons=true)
-
+![sousacl's GitHub stats](https://github-readme-stats.vercel.app/api?username=sousacl&theme=default&show_icons=true)
 	
 <div style="display: inline_block"><br>
   
