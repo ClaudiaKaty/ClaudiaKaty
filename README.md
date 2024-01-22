@@ -1,6 +1,6 @@
 ##  Olá, seja bem vind@ ao meu GitHub!
 
-- 🎓 Graduanda em ADS na UniFbv Wyden-PE.
+- 🎓 Graduanda em ADS na Uninassau.
 
 ![sousacl's GitHub stats](https://github-readme-stats.vercel.app/api?username=sousacl&theme=default&show_icons=true)
 	
